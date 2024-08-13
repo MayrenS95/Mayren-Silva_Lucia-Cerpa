@@ -1,0 +1,8 @@
+[2024-08-12 19:52:30] [ INFO ] [DaoH2:36] Odontologo guardado en base de datos Odontologo{id=3, numeroMatricula=1234, nombre='Lucia', apellido='Cerpa'}
+[2024-08-12 19:52:31] [ INFO ] [DaoH2:78] Odontologo Odontologo{id=1, numeroMatricula=1234, nombre='MAYREN', apellido='SILVA'}
+[2024-08-12 19:52:31] [ INFO ] [DaoH2:78] Odontologo Odontologo{id=2, numeroMatricula=1222, nombre='ALDEMAR', apellido='BOHORQUEZ'}
+[2024-08-12 19:52:31] [ INFO ] [DaoH2:78] Odontologo Odontologo{id=3, numeroMatricula=1234, nombre='Lucia', apellido='Cerpa'}
+[2024-08-12 20:04:43] [ INFO ] [DaoEnMemoria:19] Odontologo guardado en memoria Odontologo{id=1, numeroMatricula=1234, nombre='Mayren', apellido='Silva'}
+[2024-08-12 20:04:43] [ INFO ] [DaoEnMemoria:19] Odontologo guardado en memoria Odontologo{id=2, numeroMatricula=12357, nombre='Mayren', apellido='Silva'}
+[2024-08-12 20:04:43] [ INFO ] [DaoEnMemoria:19] Odontologo guardado en memoria Odontologo{id=3, numeroMatricula=1234, nombre='Maria', apellido='Basto'}
+[2024-08-12 20:04:43] [ INFO ] [DaoEnMemoria:25] listado de Odontologos guardado en memoria: 
